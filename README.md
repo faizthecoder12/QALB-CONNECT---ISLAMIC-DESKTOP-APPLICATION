@@ -1,4 +1,4 @@
-**QalbConnect - Islamic Application** 🕌
+**QalbConnect - Islamic Java Application** 🕌
 
 **About The Project**
 
@@ -147,4 +147,5 @@ bashCopygit clone https://github.com/faizthecoder12/QALB-CONNECT---ISLAMIC-DESKT
 
 
 **Contact** 📬
-Your Name - faizulkarim2004@gmail.com
+
+Faiz Ul Karim Siddiqui (Owner) - faizulkarim2004@gmail.com
