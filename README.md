@@ -1,6 +1,7 @@
 **QalbConnect - Islamic Application** 🕌
 
 **About The Project**
+
 QalbConnect is a comprehensive Islamic desktop application built using Core Java and Swing GUI library. It serves as a digital companion for Muslims, offering various features to enhance their spiritual journey. The application combines modern technology with Islamic practices, making it easier for users to access religious information and maintain their spiritual routines.
 
 Features 🌟
